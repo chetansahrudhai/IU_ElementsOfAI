@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 0 - Search and Python
 ## Problem 1 - Navigation
 A certain autonomous agent, a pichu, likes to fly around the house and interrupt video recordings at the most inopportune moments. Suppose that a house consists of a grid of N × M cells, represented like this:
 ```
